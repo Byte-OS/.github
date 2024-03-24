@@ -1,12 +1,6 @@
 ## Hi there 👋
 
-<!--
+> 这是 byteos 的 org，包含 byteos 相关的东西。
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+下面是一些独立的 Rust 模块，也许对你写自己的 OS 有帮助。
+[模块列表](https://github.com/Byte-OS/.github/blob/main/README.md): https://github.com/Byte-OS/.github/blob/main/README.md
