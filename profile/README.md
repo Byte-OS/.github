@@ -6,3 +6,6 @@
 
 [模块列表](https://github.com/Byte-OS/.github/blob/main/README.md): 
 https://github.com/Byte-OS/.github/blob/main/README.md
+
+[模块列表v2](https://byte-os.github.io/modules/)
+https://byte-os.github.io/modules/
